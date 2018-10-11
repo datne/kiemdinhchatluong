@@ -1,0 +1,9 @@
+d:\kiemdinhchatluong-dat\kiemdinhchatluong-dat\bin\Debug\kiemdinhchatluong-dat.exe.config
+d:\kiemdinhchatluong-dat\kiemdinhchatluong-dat\bin\Debug\kiemdinhchatluong-dat.exe
+d:\kiemdinhchatluong-dat\kiemdinhchatluong-dat\bin\Debug\kiemdinhchatluong-dat.pdb
+d:\kiemdinhchatluong-dat\kiemdinhchatluong-dat\obj\Debug\kiemdinhchatluong-dat.csprojResolveAssemblyReference.cache
+d:\kiemdinhchatluong-dat\kiemdinhchatluong-dat\obj\Debug\kiemdinhchatluong_dat.Properties.Resources.resources
+d:\kiemdinhchatluong-dat\kiemdinhchatluong-dat\obj\Debug\kiemdinhchatluong-dat.csproj.GenerateResource.Cache
+d:\kiemdinhchatluong-dat\kiemdinhchatluong-dat\obj\Debug\kiemdinhchatluong-dat.exe
+d:\kiemdinhchatluong-dat\kiemdinhchatluong-dat\obj\Debug\kiemdinhchatluong-dat.pdb
+d:\kiemdinhchatluong-dat\kiemdinhchatluong-dat\obj\Debug\kiemdinhchatluong_dat.formCheck.resources
